@@ -1,0 +1,98 @@
+Luis Herrera
+============
+
+hc.luis@gmail.com
+
+== Summary ==
+
+A hands-on *Software Engineer* with more than 20 years of experience.
+
+I have designed and developed software for clients in different industries. The
+applications and tools I have written are in use today supporting a large
+number of transactions or enabling development teams to get applications to
+market quickly.
+
+I enjoy creating software. Whether it is to bring projects from inception to
+implementation or to improve existing systems for performance, cost, or
+quality, my passion is to apply my expertise and to learn new technologies in
+order to develop the best software.
+
+== Experience ==
+
+=== Wells Fargo, Minneapolis, MN. Since 2005. ===
+
+.VP / Lead Software Engineer. Technology Infrastructure.  2018 - Present.
+
+* Lead of the enterprise system that will manage server maintenance, starting
+  with integration with current systems and planning for a complete migration
+  by end of 2022.
+
+_Python, Celery, REST, Angular, Docker, Ansible, Redis._
+
+.AVP / Software Sr. Engineer. Technology and Operations Group.  2013 - 2018.
+
+* Lead of an enterprise-wide project for the development of a
+  continuous delivery and automated deployment platform based on Puppet
+  Enterprise.
+* Created services and UI that enable development teams to deploy software to
+  an internal Wells Fargo cloud environment.
+
+_Ruby, Python, Jupyter, REST, Docker, OpenStack, Jenkins CI, Puppet._
+
+<<<
+.AVP / Apps Systems Engineer. Wealth, Retirement, and Trust Technology. 2007 - 2012.
+
+* Developed _Managed Release Control_, intelligent automation.
+* Built a test-driven engineering practice based on project templates, software
+  stacks, and processes for delivering Java and Ruby applications.
+* Source code repository administration and management (Subversion and CVS).
+* Maintained internal forks of Open Source projects (e.g. Divmod Combinator, Apache Axis).
+
+_Python, Java, Ruby._
+
+.Apps Systems Engineer. PCS Technology, Software Development. 2004 - 2006.
+
+* Development of PCS Bus, an Enterprise Service Bus.
+* Maintained the build process of the PCS Bus project with Maven and Ant.
+* Source code repository administration and management (CVS).
+* Issue tracking and Wiki system maintenance and administration.
+
+_Java, SOAP, Apache Axis, J2EE._
+
+.Principal Consultant. Keane Incorporated. 1998 - 2003.
+
+* Whirlpool Corporation: Web traffic analysis; automation of product data replication; developed desktop tools for product literature report generation.
+* City of Chicago Department of Revenue: Developed a mobile solution for investigations.
+* iPower: Web enablement.
+* IBM: Member of the IBM SanFrancisco Frameworks development and maintenance team (a precursor of J2EE.), JDK support and problem determination.
+
+_C++, Java, JNI, J2EE, UML, JavaScript, HTML, SQL, Documentum._
+
+.Systems Engineer. Electronic Data Systems. 1996 to 1998.
+
+* Application development.
+
+_C++, SQL, UML._
+
+<<<
+== Education ==
+
+*MS Software Engineering*, 2003. University of Minnesota, Minneapolis, MN. +
+*BS Computer Systems Engineering*, 1996. Monterrey Institute of Technology and Higher Education, State of Mexico, Mexico.
+
+== Skills ==
+
+.Languages and OS
+
+Python, Ruby, Java, UNIX shell scripting, SQL, HTML, JavaScript, Linux,
+Windows.
+
+.Other Software
+
+Ansible, Docker, Redis, Vagrant, OpenStack, Jupyter, VMware, VirtualBox, Apache
+HTTP Server, Nginx, PostgreSQL, Git, RabbitMQ, Angular, Jenkins, Jira,
+Confluence, REST, Django, Flask.
+
+.Methodologies
+
+DevOps, Agile (Scrum), Unified Process.
