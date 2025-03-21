@@ -1,0 +1,118 @@
+Luis Herrera
+============
+
+*Email:* hc.luis@gmail.com +
+*Phone:* (651) 270-8164 +
+*LinkedIn:* https://www.linkedin.com/in/luis-herrera-13967a3/
+
+== Summary ==
+
+Innovative and results-driven *Software Engineer* with over two decades of
+experience, including Python, React, TypeScript, and DevOps, and exploring
+the intersection of software and AI/ML.
+
+Passionate about designing scalable systems and mentoring teams to deliver
+high-quality software solutions.
+
+I have designed and developed software for clients in different industries. The
+applications and tools I have written are in use today supporting a large
+number of transactions or enabling development teams to get applications to
+market quickly.
+
+I enjoy creating software. Whether it is to bring projects from inception to
+implementation or to improve existing systems for performance, cost, or
+quality, my passion is to apply my expertise and to learn new technologies in
+order to develop the best software.
+
+== Skills ==
+
+.Programming Languages
+Python, TypeScript, Ruby, Java, JavaScript, SQL, Linux shell.
+
+.Technologies
+React, REST, Git, Docker, Ansible, Redis, Sinatra, Flask, Django, AWS, Kafka, MongoDB, Maven, Kubernetes, Monaco Editor.
+
+.Tools
+Docker Compose, Visual Studio Code, vagrant, VirtualBox, Jira/Confluence.
+
+.Methodologies
+DevOps, Agile (Scrum), Unified Process.
+
+== Experience ==
+
+=== VP / Lead Software Engineer ===
+Wells Fargo |  May 2023 - Present
+
+Led the design and development of a common framework based on Flask and Advanced Python Scheduler (APScheduler) for applications running jobs and hosting
+REST services. Wrote a React-based application as a main portal, and a set of React micro-frontend applications to complement
+the suite of solutions for Enterprise Functions Technology (EFT.) +
+Mentored interns and junior developers, fostering engineering excellence and code quality. Supported engineers in their rotation with our team, ensuring they remained engaged while learning and enabling them to make tangible contributions to our code base. +
+Implemented a solution for Scrum masters for automated creation of Jira issues based on Jira Service Management requests,
+keeping Kanban and Scrum teams in sync with Service Desk users by publishing comments and links between the two systems. +
+Onboarded EFT applications to Liquibase for tracking, managing, and applying database changes. +
+
+_Skills and tools: Python, REST, React, TypeScript, HashRouter, Ansible, SQL Server, VS Code/Copilot, Jira Automation._
+
+=== Software Development Engineer ===
+Amazon | Jun 2022 - Jan 2023
+
+Led the implementation of a critical feature supporting additional artifact
+types for language models, improving efficiency and scalability. +
+Developed UI for the authoring of machine learning models for Alexa's Natural
+Language Understanding (NLU). The UI provides insight into the status of
+changes and how they were designed and authored. +
+Developed high-performance backend services in Python. +
+Automated manual steps in the authoring workflow and integrated with other tools and systems. +
+Implemented automated unit and integration tests in Python, JavaScript, and Java.
+
+_Skills and tools: Python, React, REST, AWS, AWS CDK._
+
+=== VP / Lead Software Engineer ===
+Wells Fargo |  Jan 2018 - May 2022
+
+Led the development of a new cloud-based platform that manages server maintenance and reduced costs by enabling scheduling of patching, tracking compliance, and reporting errors, in addition to maintaining other systems up to date. This was a completely new system with an Angular UI and Python REST services that integrate
+with different enterprise systems of record. +
+Backend design and implementation of a microservices architecture using Docker and Ansible, resulting in faster deployment and improved scalability. +
+Conducted code reviews and mentored junior developers to improve code quality and productivity. +
+Worked with cross-functional teams to gather requirements and deliver solutions that met business needs.
+
+_Skills and tools: Python, Celery, REST, Angular, Docker, Ansible, Redis, Kafka, MongoDB._
+
+=== AVP / Software Sr. Engineer ===
+Wells Fargo | Jan 2013 - Jan 2018
+
+Led an enterprise-wide project for the development of a continuous delivery and automated deployment platform. +
+Created services and UI in Ruby that enable development teams to deploy software to an internal Wells Fargo cloud environment. Led the design and implementation of the system through all phases, from inception through deployment.
+
+_Skills and tools: Ruby, Sinatra, Python, Jupyter, REST, Docker, MongoDB, OpenStack, Jenkins CI, Puppet._
+
+=== AVP / Apps Systems Engineer ===
+Wells Fargo | Jan 2007 - Jan 2013
+
+Implemented Managed Release Control, intelligent automation for repeatable builds and deployments, and configuration management. +
+Built a test-driven engineering practice based on project templates, software stacks, and processes for delivering Java and Ruby applications. +
+Performed source code repository administration and management (Subversion and CVS). +
+Maintained internal forks of Open Source projects (e.g. Divmod Combinator, Apache Axis).
+
+_Skills and tools: Python, Java, Ant, Maven, Ruby._
+
+=== Apps Systems Engineer ===
+Wells Fargo | Jan 2004 - Dec 2006
+
+Implemented an Enterprise Service Bus for Wells Fargo's Private Client Services. +
+Maintained the build process of the PCS Bus project with Maven and Ant. +
+Source code repository administration and management (CVS). +
+Issue tracking and Wiki system maintenance and administration.
+
+_Skills and tools: Java, Maven, SOAP, Apache Axis, J2EE._
+
+
+=== Principal Consultant ===
+Keane Incorporated | 1998 - 2003.
+
+=== Systems Engineer ===
+Electronic Data Systems | 1996 - 1998.
+
+== Education ==
+
+Master of Science in Software Engineering, University of Minnesota, Minneapolis | Sep 2001 - Jun 2003

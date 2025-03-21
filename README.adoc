@@ -1,0 +1,11 @@
+*I am a software engineer.*
+
+I am a passionate software engineer with a strong focus on designing and implementing high-quality, scalable solutions.
+
+With expertise in various programming languages, Cloud, and containerized architectures, I like fast-paced environments where I can drive innovation, optimize systems, and tackle complex challenges. I have hands-on experience with containers and a growing interest to explore the intersection of software and AI/ML, making me well-equipped to build resilient, intelligent, and efficient systems.
+
+I bring a balance of technical leadership and hands-on development, ensuring that designs are both visionary and practical. Adaptable across various roles, I emphasize thoroughness, organization, and excellence in software architecture and execution. Always eager to learn and apply cutting-edge technologies, I strive to develop impactful solutions that bridge innovation with real-world needs.
+
+I enjoy creating software.
+
+-- Luis Herrera
