@@ -108,13 +108,6 @@ Issue tracking and Wiki system maintenance and administration.
 
 _Skills and tools: Java, Maven, SOAP, Apache Axis, J2EE._
 
-
-=== Principal Consultant ===
-Keane Incorporated | 1998 - 2003.
-
-=== Systems Engineer ===
-Electronic Data Systems | 1996 - 1998.
-
 == Education ==
 
 Master of Science in Software Engineering, University of Minnesota, Minneapolis | Sep 2001 - Jun 2003
