@@ -38,6 +38,8 @@ Docker Compose, Visual Studio Code, vagrant, VirtualBox, Jira/Confluence.
 .Methodologies
 DevOps, Agile (Scrum), Unified Process.
 
+<<<
+
 == Experience ==
 
 === VP / Lead Software Engineer ===
