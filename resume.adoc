@@ -24,22 +24,6 @@ implementation or to improve existing systems for performance, cost, or
 quality, my passion is to apply my expertise and to learn new technologies in
 order to develop the best software.
 
-== Skills ==
-
-.Programming Languages
-Python, TypeScript, Ruby, Java, JavaScript, SQL, Linux shell.
-
-.Technologies
-React, REST, Git, Docker, Ansible, Redis, Sinatra, Flask, Django, AWS, Kafka, MongoDB, Maven, Kubernetes, Monaco Editor.
-
-.Tools
-Docker Compose, Visual Studio Code, vagrant, VirtualBox, Jira/Confluence.
-
-.Methodologies
-DevOps, Agile (Scrum), Unified Process.
-
-<<<
-
 == Experience ==
 
 === VP / Lead Software Engineer ===
@@ -88,6 +72,8 @@ Created services and UI in Ruby that enable development teams to deploy software
 
 _Skills and tools: Ruby, Sinatra, Python, Jupyter, REST, Docker, MongoDB, OpenStack, Jenkins CI, Puppet._
 
+<<<
+
 === AVP / Apps Systems Engineer ===
 Wells Fargo | Jan 2007 - Jan 2013
 
@@ -111,3 +97,20 @@ _Skills and tools: Java, Maven, SOAP, Apache Axis, J2EE._
 == Education ==
 
 Master of Science in Software Engineering, University of Minnesota, Minneapolis | Sep 2001 - Jun 2003
+
+== Skills ==
+
+.Programming Languages
+Python, TypeScript, Ruby, Java, JavaScript, SQL, Linux shell.
+
+.Technologies
+React, REST, Git, Docker, Ansible, Redis, Sinatra, Flask, Django, AWS, Kafka, MongoDB, Maven, Kubernetes, Monaco Editor.
+
+.Tools
+Docker Compose, Visual Studio Code, vagrant, VirtualBox, Jira/Confluence.
+
+.Methodologies
+DevOps, Agile (Scrum), Unified Process.
+
+<<<
+
