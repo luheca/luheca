@@ -6,15 +6,15 @@
 
 == Software Engineer
 Innovative and results-driven Software Engineer with experience in Python,
-React, TypeScript, and DevOps, among others, and exploring the intersection of
+React, TypeScript, and DevOps, among others, and a focus on the intersection of
 software and AI/ML. Passionate about designing scalable systems and mentoring
 teams to deliver high-quality software solutions. Designed and developed
-software for clients in different industries that are in use today supporting a
-large number of transactions or enabling development teams to get applications
-to market quickly. +
-Whether it is to bring projects from inception to implementation or to improve
+software for clients across industries that are in use today, supporting a
+large number of transactions or enabling development teams to bring
+applications to market quickly. +
+Whether bringing projects from inception to implementation or improving
 existing systems for performance, cost, or quality, I apply my expertise and
-learn new technologies in order to develop the best software.
+learn new technologies to develop the best software.
 
 == Skills
 [.text-center]
@@ -27,24 +27,24 @@ FastAPI | Ansible | Redis | Kafka | AWS | NoSQL | DevOps | IaaS | Linux | Agile
 | *Wells Fargo* | *5/2023 - Present*
 | *VP / Lead Software Engineer* |
 |===
-Designed and implemented a common automation framework for scheduling and serving REST APIs, and built a modular React-based portal with micro-frontends to support EFT workflows. Owned a solution for service request and issue tracking. Contributor to various programs for onboarding teams to Ansible and executing playbooks.
+Designed and implemented a common automation framework for scheduling and serving REST APIs, and built a modular React-based portal with micro-frontends to support EFT workflows. Owned a solution for service request and issue tracking. Contributed to various programs for onboarding teams to Ansible and executing playbooks.
 
 - Led the design and development of a framework based on Flask and Advanced Python Scheduler (APScheduler) for applications running jobs and hosting REST services.
-- Wrote a React-based application as a main portal, and a set of React micro-frontend applications to complement the suite of solutions for Enterprise Functions Technology (EFT).
+- Developed a React-based application as a main portal, along with a set of React micro-frontend applications to complement the suite of solutions for Enterprise Functions Technology (EFT).
 - Mentored interns and junior developers, fostering engineering excellence and code quality through reviews and guidance.
-- Supported engineers in their rotation with our team, ensuring they remained engaged while learning and enabling them to make tangible contributions to our code base.
-- Implemented a solution for Scrum masters for automated creation of Jira issues based on Jira Service Management requests, bridging Scrum/Kanban boards and Service Desk, including publishing of comments and links between the two systems.
-- Onboarded EFT applications to Liquibase for CI/CD-friendly tracking, managing, and applyication of database changes.
+- Supported engineers during their rotation with our team, ensuring engagement while enabling them to make tangible contributions to our codebase.
+- Implemented a solution for Scrum masters to automate the creation of Jira issues based on Jira Service Management requests, bridging Scrum/Kanban boards and Service Desk, including publishing comments and links between the two systems.
+- Onboarded EFT applications to Liquibase for CI/CD-friendly tracking, management, and application of database changes.
 
 [%autowidth.stretch,cols="<1,>1",frame=none,grid=none]
 |===
 | *Amazon* | *6/2022 - 1/2023*
 | *Software Development Engineer* |
 |===
-Implemented support for new artifact types in Alexa’s NLU model pipeline, boosting scalability. Built UI and backend services for model authoring, automated workflows, and delivered test coverage across Python, JavaScript, and Java.
+Implemented support for new artifact types in Alexa’s NLU model pipeline, enhancing scalability. Built UI and backend services for model authoring, automated workflows, and delivered test coverage across Python, JavaScript, and Java.
 
 - Led the implementation of a critical feature supporting additional artifact types for language models, improving efficiency and scalability.
-- Developed UI for authoring of machine learning models for Alexa’s Natural Language Understanding (NLU.) The UI provides insight into the status of changes and how they were designed and authored.
+- Developed a UI for authoring machine learning models for Alexa’s Natural Language Understanding (NLU), providing insight into the status of changes and their design.
 - Developed high-performance backend services in Python.
 - Automated manual steps in the authoring workflow and integrated with other tools and systems.
 - Implemented automated unit and integration tests in Python, JavaScript, and Java.
@@ -54,47 +54,47 @@ Implemented support for new artifact types in Alexa’s NLU model pipeline, boos
 | *Wells Fargo* | *1/2018 - 5/2022*
 | *VP / Lead Software Engineer* |
 |===
-Led development of a cloud-based platform with Angular and Python services to manage server maintenance, compliance, and cost reduction. Designed microservices architecture using Docker and Ansible for scalable, efficient deployment. Collaborated across teams and mentored developers to drive quality and delivery.
+Led development of a cloud-based platform with Angular and Python services to manage server maintenance, compliance, and cost reduction. Designed a microservices architecture using Docker and Ansible for scalable, efficient deployment. Collaborated across teams and mentored developers to drive quality and delivery.
 
-- Led development of a new cloud-based platform that manages server maintenance and reduced costs by enabling scheduling of parching, tracking compliance, and reporting errors, in addition to maintaining other systems up to date. This was a completely new system with an Angular UI and Python REST services that integrate with different enterprise systems of record.
-- Backend design and implementation of a microservices architecture using Docker and Ansible, resulting in faster deployment and improved scalability.
+- Led development of a new cloud-based platform that manages server maintenance and reduces costs by enabling scheduling of patching, tracking compliance, and reporting errors, while keeping other systems up to date. The system featured an Angular UI and Python REST services integrated with enterprise systems of record.
+- Designed and implemented a backend microservices architecture using Docker and Ansible, resulting in faster deployment and improved scalability.
 - Conducted code reviews and mentored junior developers to improve code quality and productivity.
-- Worked with cross-functional teams to gather requirements and deliver solutions that met business needs.
+- Collaborated with cross-functional teams to gather requirements and deliver solutions that met business needs.
 
 [%autowidth.stretch,cols="<1,>1",frame=none,grid=none]
 |===
 | *Wells Fargo* | *1/2013 - 1/2018*
-| *AVP / Software Sr. Engineer* |
+| *AVP / Senior Software Engineer* |
 |===
-Led end-to-end development of an enterprise continuous delivery and deployment platform, from design to production. Built Ruby-based services and UI enabling teams to deploy to Wells Fargo’s internal cloud environment.
+Led end-to-end development of an enterprise continuous delivery and deployment platform, from design to production. Built Ruby-based services and a UI enabling teams to deploy to Wells Fargo’s internal cloud environment.
 
-- Led an enterprise-wide project for the development of a continuous delivery and automated deployment platform.
-- Created services and UI in Ruby that enable development teams to deploy software to an internal Wells Fargo cloud environment.
-- Led the design and implementation of the system through all phases, from inception through deployment.
+- Led an enterprise-wide project to develop a continuous delivery and automated deployment platform.
+- Created services and a UI in Ruby that enabled development teams to deploy software to Wells Fargo’s internal cloud environment.
+- Led the design and implementation of the system through all phases, from inception to deployment.
 
 [%autowidth.stretch,cols="<1,>1",frame=none,grid=none]
 |===
 | *Wells Fargo* | *1/2007 - 1/2013*
-| *AVP / Apps Systems Engineer* |
+| *AVP / Applications Systems Engineer* |
 |===
-Developed intelligent automation for builds, deployments, and configuration management. Established test-driven engineering practices using standardized stacks and templates for Java, Ruby, and Python apps.
+Developed intelligent automation for builds, deployments, and configuration management. Established test-driven engineering practices using standardized stacks and templates for Java, Ruby, and Python applications.
 
-- Implemented Managed Release Control, intelligent automation for repeatable builds and deployments, and configuration management.
+- Implemented Managed Release Control, an intelligent automation system for repeatable builds, deployments, and configuration management.
 - Built a test-driven engineering practice based on project templates, software stacks, and processes for delivering Java and Ruby applications.
-- Performed source code repository administration and management (Subversion and CVS).
-- Maintained internal forks of Open Source projects (e.g. Divmod Combinator, Apache Axis).
+- Administered and managed source code repositories (Subversion and CVS).
+- Maintained internal forks of Open Source projects (e.g., Divmod Combinator, Apache Axis).
 
 [%autowidth.stretch,cols="<1,>1",frame=none,grid=none]
 |===
 | *Wells Fargo* | *1/2004 - 12/2006*
-| *Apps Systems Engineer* |
+| *Applications Systems Engineer* |
 |===
 Implemented an Enterprise Service Bus for Private Client Services and maintained its build process using Java, Ant, and Maven.
 
 - Implemented an Enterprise Service Bus for Private Client Services in Java.
-- Maintained the build process of the PCS Bus project with Maven and Ant.
-- Source code repository administration and management (CVS).
-- Issue tracking and Wiki system maintenance and administration.
+- Maintained the build process for the PCS Bus project using Maven and Ant.
+- Administered and managed the source code repository (CVS).
+- Maintained and administered issue tracking and Wiki systems.
 
 == Education
 *Master of Science (MS), Software Engineering* +
