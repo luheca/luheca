@@ -1,0 +1,29 @@
+extends: default  # Inherit all defaults
+
+base:
+  font_size: 10pt  # Global text size (default: 12)
+  font_family: Helvetica  # Built-in font (no extra files needed)
+  line_height_length: 1 # Tightest possible line height (default: 1.25)
+
+heading:
+  h2_font_size: floor($base_font_size * 2)
+  margin_bottom: $vertical_rhythm * 0.1
+  h3:
+    font_size: floor($base_font_size * 1)
+
+footer:
+  recto:
+    center:
+      content: "Luis Herrera | hc.luis@gmail.com"
+    right:
+      content: "{page-number}/{page-count}"
+  verso:
+    left:
+      content: "{page-number}/{page-count}"
+    center:
+      content: "Luis Herrera | hc.luis@gmail.com"
+
+table:
+  cell:
+    padding: [0, 0, 0, 0]  # [top, right, bottom, left] in pts
+    # Default is usually [5, 5, 5, 5]

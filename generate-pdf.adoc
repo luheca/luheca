@@ -2,4 +2,4 @@ bundle config set --local path 'vendor'
 bundle install
 bundler binstubs --all
 
-bin/asciidoctor-pdf --out-file 'output/Luis Herrera.pdf' resume.adoc
+bin/asciidoctor-pdf -a pdf-theme=resume.yml --out-file 'output/Luis Herrera.pdf' resume.adoc
